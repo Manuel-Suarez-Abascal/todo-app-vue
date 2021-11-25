@@ -16,4 +16,4 @@ A simple To-do app built with Express &amp; Vue
 ## Server App
 
 - Navigate to `server` folder & install dependencies with `cd server & npm i`.
-- Launch the server's app by running the command: `npm run server:start`.
+- Launch the `server`'s app by running the command: `npm run server:start`.
